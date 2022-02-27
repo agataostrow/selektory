@@ -1,0 +1,4 @@
+div :nth-of-type(even), p:last-of-type {
+
+    text-decoration: underline;
+}
